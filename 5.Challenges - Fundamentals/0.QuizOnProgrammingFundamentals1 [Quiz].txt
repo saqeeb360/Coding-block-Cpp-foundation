@@ -1,0 +1,109 @@
+Quiz questions
+
+0. Title: Range of char
+Description: What is the range of charcter bucket acquire
+
+0.1 Byte
+1.4 Byte
+2.8 Byte
+3.16 Byte
+
+
+
+1. Title: Order of precedence
+Description: "What is the order of precedence for int, float, char and bool
+"
+
+0.char>float>int>bool
+1.float>int>char>bool
+2.bool>float>int>char
+3.int>float>char>bool
+
+
+
+2. Title: Predict Output 1
+Description: "/* The output of the following program is ? */
+1)        #include<iostream>  
+2)        using namespace std;  
+3)        int main(){  
+4)        signed CodingBlocks = 9;  
+5)        signed Nagarro = A;  
+6)        signed char HackerBlocks = 'A';  
+7)        cout<<CodingBlocks<<endl;  
+8)        cout<<HackerBlocks<<endl;  
+ 9)        return 0;  
+          }
+"
+
+0.A  9
+1.Error in line 4
+2.Error in line 5
+3.9  A
+
+
+
+3. Title: Predict Output 2
+Description: "/* What will be the output of the following program ? */
+```cpp
+#include<iostream>
+using namespace std;
+
+int main(){
+    signed CodingBlocks = 9;
+    short double Nagarro = 8.8;
+    signed char HackerBlocks = 'A';
+    cout<<CodingBlocks<<endl;
+    cout<<Nagarro<<endl;
+    cout<<HackerBlocks<<endl;
+
+
+    return 0;
+    }"
+```
+
+0.9   8.8   A
+1."Run Time Error "
+2.Error due to Nagrro
+3.Error Due to Coding Blocks
+
+
+
+4. Title: Predict Output 3
+Description: ```cpp
+"/* Output ? */
+#include<iostream>
+using namespace std;
+
+int main(){
+    long signed CodingBlocks = 2017;
+    short unsigned BOSS1     = -2018;
+    unsigned BOSS2           = -2019;
+    int      BOSS3           = -2020;
+    long long unsigned BOSS4 = -2021;
+    short unsigned Nagarro   = 2018.9;
+    long signed HackerBlocks = 'A';
+    cout<<CodingBlocks<<endl;
+    cout<<BOSS1<<endl<<BOSS2<<endl<<BOSS3<<endl<<BOSS4<<endl;
+    cout<<Nagarro<<endl;
+    cout<<HackerBlocks<<endl;
+
+
+    return 0;
+    }"
+```
+
+0.2017    2^16 - 2018    2^32 -2019    -2020    2^64 - 2021   2018    65
+1.2017    2018    2019    2020    2021    2018.9    A
+2.2017  2^32 - 2018  2^32 -2019  -2020  2^32 - 2021 2018  65
+3.2017    2^32 - 2018    2^32 -2019    -2020    2^64 - 2021   2018    64
+
+------------------------------------
+ANSWERS
+------------------------------------
+0. 1 byte
+1. float>int>char>bool
+2. Error in line 5 (A not defined)
+3. Error due to Nagrro
+4. 0.2017    2^16 - 2018    2^32 -2019    -2020    2^64 - 2021   2018    65
+
+
