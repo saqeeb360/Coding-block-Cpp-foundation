@@ -20,7 +20,7 @@ int main(){
             cout<<j<<" ";
         }
            //Spaces 
-        for(int k = 1; k <= 2*(n+1) - 4*(i-1); k++){
+        for(int k = 1; k <= 4*(n-i-1) + 1; k++){
             cout<<" ";
         }
         // Ending digits
@@ -28,15 +28,15 @@ int main(){
             if(l==n){
                 continue;
             }
+            else if(l==i){
+                // space before start of ending digits
+                cout<<" ";
+            }
             cout<<l<< " ";
         }
 
         cout<<endl;
     }
-
-
-    
-
     return 0;
 }
 
