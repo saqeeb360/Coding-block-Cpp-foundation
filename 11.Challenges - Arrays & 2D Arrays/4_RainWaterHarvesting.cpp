@@ -7,12 +7,12 @@ int main(){
 	int n ;
 	cin>>n;
 	
-	int a[1000];
+	int a[100000];
 	for(int i=0; i<=n-1; i++){
 		cin>>a[i];
 	}
 	
-	int l[1000], r[1000]; // for keeping max 
+	int l[100000], r[100000]; // for keeping max 
 
 	// find max at all position from left to right
 	l[0] = a[0];
@@ -28,7 +28,7 @@ int main(){
 		rmax = max(a[i], rmax);
 		r[i] = rmax;
 	} 
-
+/*
 	// display array l and r
 	for(int i = 0 ; i<=n-1; i++){
 		cout << l[i] <<" ";
@@ -39,7 +39,7 @@ int main(){
 		cout << r[i] <<" ";
 	}
 	cout<<endl;
-
+*/
 	//traverse on each index and find the water level there and add to the sum
 	int sum = 0;
 	for(int i=0; i<= n-2; i++){
