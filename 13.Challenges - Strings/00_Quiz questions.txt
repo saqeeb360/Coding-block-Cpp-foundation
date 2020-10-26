@@ -1,0 +1,169 @@
+Quiz questions
+
+0. Title: Locate Substring
+Description: Which of the following function can be used for locating a substring in a string.
+
+
+
+
+0.find
+1.strcmp
+2.substr
+--find
+
+
+1. Title: Operator String
+Description: Operator ‘+’ is allowed on C++ string
+
+
+0.True
+1.False
+--True
+
+
+2. Title: String Comparison
+Description: string comparison is as efficient as number comparison
+
+
+0.True
+1.False
+--True
+
+
+3. Title: Types of String
+Description: How many types of representation are in the string?
+
+
+0.3
+1.4
+2.1
+3.2
+
+
+
+4. Title: Output String 1
+Description: What is the output of this program?<br><pre><code="lang-cpp">
+   #include <iostream>
+   #include <cstring>
+   using namespace std;
+   int main ()
+   {
+       char str1[10] = "Hello";
+       char str2[10] = "World";
+       char str3[10];
+       int  len ;
+       strcpy( str3, str1);
+       strcat( str1, str2)
+       len = strlen(str1);
+       cout << len << endl;
+       return 0;
+   }</code></pre>
+
+
+0.5
+1.55
+2.11
+3.10
+--5
+
+
+5. Title: Output String 2
+Description: What is the output of this program<pre><code="lang-cpp">
+  #include <iostream>
+  #include <string>
+  using namespace std;
+  int main ()
+  {
+      string str ("nobody does like this");
+      string key ("nobody");
+      size_t f;
+      f = str.rfind(key);
+      if (f != string::npos)
+          str.replace (f, key.length(), "everybody");
+      cout << str << endl;
+      return 0;
+  }
+</code></pre>
+
+
+0.nobody does like this
+1.nobody does like this
+2.nobody
+3.everybody
+4.everybody does like this
+
+
+
+6. Title: String operators
+Description:  Which method do we use to append more than one character at a time?
+
+
+0.append
+1.append
+2.operator+=
+3.both append & operator+=
+4.data
+--3
+
+
+7. Title: Multi - Word String
+Description: Which of the following function is more appropriate for reading in a multi-word string?
+
+
+0.scanf()
+1.gets()
+2.printf()
+3.puts()
+--1
+
+
+8. Title: Output String 3
+Description: What will be the output of the program ?<pre><code="lang-cpp">
+#include<stdio.h>
+#include<string.h>
+
+int main()
+{
+    char str[] = "Code\0Quiz\0";
+    printf("%s\n", str);
+    return 0;
+}
+</code></pre>
+
+
+
+0.Quiz
+1.Code
+2.Code Quiz
+3.Code\0Quiz
+
+
+
+9. Title: Output String 4
+Description: What is the output of the following program<pre><code="lang-cpp">
+int main()
+{
+    char name[] = "CoMPutER";
+    for (int x = 0; x < strlen(name); x++)
+        if (islower(name [x]))
+            name [x] = toupper(name[x]);
+        else
+            if (isupper(name[x]))
+                if (x % 2 == 0)
+                    name[x] = tolower(name[x]);
+                else
+                    name[x] = name[x-1];
+
+     cout << name;
+    
+     return 0;
+}
+</code></pre>
+
+0.cOmmUTee
+1.cOmmUTer
+2.cOomUTee
+3.cOopUTee
+--0
+
+
