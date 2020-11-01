@@ -1,6 +1,27 @@
 # **Coding-blocks-Cpp** 
 _Coding block cpp foundation/beginner codes._
+
 ***
+## Content
+- [Getting started](#getting-started)
+- [Programming Fundamental - I](#programming-fundamental---i)
+- [Programming Fundamental - II](#programming-fundamental---ii)
+- [Challenges - Fundamentals](#challenges---fundamentals)
+- [Challenges - Patterns](#challenges---patterns)
+- [Functions](#functions)
+- [Arrays](#arrays)
+- [Character Arrays](#character-arrays)
+- [2D Arrays](#2d-arrays)
+- [Challenges - Arrays & 2d Arrays](#challenges---arrays-&-2d-arrays)
+- [Strings](#strings)
+- [Challenges - Strings](#challenges---strings)
+- [Pointers](#pointers)
+- [Dynamic Memory Allocation](#dynamic-memory-allocation)
+- [Recursion Basics](#recursion-basics)
+- [Challenges - Recursion](#challenges---recursion)
+
+
+
 ## Getting started 
   1. Hello world
   2. Simple interest
