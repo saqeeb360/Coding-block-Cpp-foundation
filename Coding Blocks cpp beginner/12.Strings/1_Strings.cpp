@@ -55,7 +55,6 @@ int main(){
 	// Index
 	cout<< s1[0] << endl;
 
-
 	// FIND SUBSTRINGS
 
 	string s = "I want to have apple juice";
@@ -70,7 +69,9 @@ int main(){
 
 	s.erase(idx, len);
 	cout<<s << endl; 
-
+	
+	//Substring from index
+	cout << s.substr(1,6) << endl;
 
 	// ITERATION
 	// Using index by integer 
