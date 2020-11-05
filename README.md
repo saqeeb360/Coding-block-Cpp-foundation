@@ -1,28 +1,30 @@
 # **Coding-blocks-Cpp** 
-_Coding block cpp foundation/beginner codes._
+Some Description and story
+> _[Coding block](https://online.codingblocks.com/courses/c-plus-plus-basics) cpp foundation/beginner codes._
 
 ***
 ## Content
-- [Getting started](#getting-started)
-- [Programming Fundamental - I](#programming-fundamental---i)
-- [Programming Fundamental - II](#programming-fundamental---ii)
-- [Challenges - Fundamentals](#challenges---fundamentals)
-- [Challenges - Patterns](#challenges---patterns)
-- [Functions](#functions)
-- [Arrays](#arrays)
-- [Character Arrays](#character-arrays)
-- [2D Arrays](#2d-arrays)
-- [Challenges - Arrays & 2d Arrays](#challenges---arrays-&-2d-arrays)
-- [Strings](#strings)
-- [Challenges - Strings](#challenges---strings)
-- [Pointers](#pointers)
-- [Dynamic Memory Allocation](#dynamic-memory-allocation)
-- [Recursion Basics](#recursion-basics)
-- [Challenges - Recursion](#challenges---recursion)
+- [Coding Blocks Cpp](https://github.com/saqeeb360/Coding-block-Cpp-foundation/tree/main/Coding%20Blocks%20cpp%20beginner)
+  - [Getting started](#getting-started)
+  - [Programming Fundamental - I](#programming-fundamental---i)
+  - [Programming Fundamental - II](#programming-fundamental---ii)
+  - [Challenges - Fundamentals](#challenges---fundamentals)
+  - [Challenges - Patterns](#challenges---patterns)
+  - [Functions](#functions)
+  - [Arrays](#arrays)
+  - [Character Arrays](#character-arrays)
+  - [2D Arrays](#2d-arrays)
+  - [Challenges - Arrays & 2d Arrays](#challenges---arrays-&-2d-arrays)
+  - [Strings](#strings)
+  - [Challenges - Strings](#challenges---strings)
+  - [Pointers](#pointers)
+  - [Dynamic Memory Allocation](#dynamic-memory-allocation)
+  - [Recursion Basics](#recursion-basics)
+  - [Challenges - Recursion](#challenges---recursion)
 
 
 
-## [Getting started](https://github.com/saqeeb360/Coding-block-Cpp-foundation/tree/main/02.Getting%20started%20with%20C%2B%2B) 
+## [Getting started](https://github.com/saqeeb360/Coding-block-Cpp-foundation/tree/main/Coding%20Blocks%20cpp%20beginner/02.Getting%20started%20with%20C%2B%2B) 
   1. Hello world
   2. Simple interest
   3. Sum of numbers
