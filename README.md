@@ -138,5 +138,18 @@ Some Description and story
   3. Tokenisation Using strtok
   4. Designing String Tokenizer
   5. Sort The Strings
+## Challenges - Strings
+  0. Quiz
+  1. Lower Upper
+  2. Character Type
+  3. Strings Maximum Frequecy Character
+  4. Can You Read This
+  5. Is Palindrome
+  6. Strings Difference in Ascii Codes
+  7. 
+  8. 
+  9. String Compression
+  10. Ultra Fast Mathematicians
+  11. 
 
 
