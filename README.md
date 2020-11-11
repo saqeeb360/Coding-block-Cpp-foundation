@@ -151,5 +151,10 @@ Some Description and story
   9. String Compression
   10. Ultra Fast Mathematicians
   11. 
+## Pointers
+  1. Address Of Operator
+  2. Pointers
+  3. Dereference Operator
+  4. Pass by Reference Using Pointers
 
 
