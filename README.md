@@ -156,5 +156,12 @@ Some Description and story
   2. Pointers
   3. Dereference Operator
   4. Pass by Reference Using Pointers
+## Dynamic Memory Allocation
+  1. Memory Allocation
+  2. Allocating 2D Dynamic Arrays
+  3. Returning Local Arrays Vs Dynamic Arrays
+
+
+
 
 
