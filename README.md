@@ -160,6 +160,20 @@ Some Description and story
   1. Memory Allocation
   2. Allocating 2D Dynamic Arrays
   3. Returning Local Arrays Vs Dynamic Arrays
+## Recursion Basic
+  1. Recursion Introduction
+  2. Fibonacci Recursion Call Stack Visualisation
+  3. Array is Sorted by Recursion
+  4. Power
+  5. Print by Recursion
+  6. Binary Search Recursion
+  7. Multiply 
+  8. Tiling Problem
+  9. Spelling
+  10. First Occurence Linear Search
+  11. Bubble Sort 
+   
+
 
 
 
