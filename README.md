@@ -172,7 +172,17 @@ Some Description and story
   9. Spelling
   10. First Occurence Linear Search
   11. Bubble Sort 
-   
+## Challenges - Recursion
+  0. Quiz
+  1. Sorted Array
+  2. Find Last Element
+  3. Recursion Convert String to Integer
+  4. Recursion Duplicate character formatting
+  5. Strings Remove Duplicates
+  6. All Indices Problem
+  7. Tiling Problem
+  8. Tower of Hanoi
+    
 
 
 
